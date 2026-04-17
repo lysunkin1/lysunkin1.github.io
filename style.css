@@ -117,7 +117,7 @@ main {
 .download-btn:hover {
     transform: translateY(-2px);
     box-shadow: 0 6px 20px rgba(0,0,0,0.3);
-    background: linear-gradient(135deg, #66bb6a, #388e3c);
+    background: linear-gradient(135deg, #5fe7ff, #7ee1ff);
 }
 
 .download-btn:active {
